@@ -30,3 +30,4 @@ dependency-reduced-pom.xml
 heroku.json
 localhost.json
 
+target/
