@@ -1,8 +1,5 @@
-<<<<<<< HEAD
 # jpa01-oscarv06-cs
-=======
-<<<<<<< HEAD
->>>>>>> 5423623 (test)
+
 # STARTER-jpa01
 
 Deployed at: https://jpa01-oscarv06-cs.dokku-01.cs.ucsb.edu
